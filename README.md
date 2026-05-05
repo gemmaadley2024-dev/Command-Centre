@@ -1,16 +1,12 @@
-# Command Centre Personal OS — Ridiculously Powerful Update
+# Command Centre Personal OS
 
-This update adds:
+GitHub Pages-ready static web app.
 
-- Focus Now autopilot page
-- auto-ranked smart priorities
-- capture inbox
-- weekly target rings
-- goals dashboard
-- automation rules
-- backup/export tools
-- richer command palette
-- stronger visual design and colour
-- service-worker cache disabled so GitHub Pages updates show faster during development
-
-Upload all files in this folder to your GitHub Pages repository and commit directly to `main`.
+## This update adds
+- full month calendar view with visible events
+- double-click a day to add an event
+- drag events between calendar days
+- Morning Brief on the dashboard
+- stronger Focus Now / weekly review experience
+- deeper team workload cards
+- visual polish and faster iteration cache version
