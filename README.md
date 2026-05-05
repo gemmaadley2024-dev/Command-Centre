@@ -1,14 +1,16 @@
-# Command Centre Personal OS
+# Command Centre Personal OS — Ridiculously Powerful Update
 
-GitHub Pages-ready static web app.
+This update adds:
 
-## This update adds
-- more colour across the whole website
-- icons and visual chips
-- favourite contacts and a dedicated Favourites page
-- default team member: Marie Hendy
-- team notes, feedback and team-linked expenses
-- calendar events for meetings, personal events and annual leave
-- team member colours on the calendar
+- Focus Now autopilot page
+- auto-ranked smart priorities
+- capture inbox
+- weekly target rings
+- goals dashboard
+- automation rules
+- backup/export tools
+- richer command palette
+- stronger visual design and colour
+- service-worker cache disabled so GitHub Pages updates show faster during development
 
-Upload the unzipped files to your existing GitHub repo and commit changes.
+Upload all files in this folder to your GitHub Pages repository and commit directly to `main`.
